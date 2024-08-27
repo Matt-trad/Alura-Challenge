@@ -14,14 +14,14 @@ Encriptación personalizada: Convierte las vocales en secuencias únicas según 
 * "o" se transforma en "ober"
 * "u" se transforma en "ufat"
 
-## **Desencriptación:** Reversión del texto encriptado a su forma original.
-Funcionalidad de copia: Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
+**Desencriptación:** Reversión del texto encriptado a su forma original.
+**Funcionalidad de copia:** Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
 
 ## **Tecnologías utilizadas**
 
-**HTML5:** Estructura del proyecto.
-**CSS:** Diseño inspirado en la estética de la máquina Bombe.
-**JavaScript:** Implementación de la lógica de encriptación y desencriptación.
+* **HTML5:** Estructura del proyecto.
+* **CSS:** Diseño inspirado en la estética de la máquina Bombe.
+* **JavaScript:** Implementación de la lógica de encriptación y desencriptación.
 
 ## **Instrucciones de uso**
 
