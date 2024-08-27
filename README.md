@@ -8,11 +8,11 @@ Este encriptador de texto fue diseñado como parte de un proyecto educativo en A
 
 * **Encriptación personalizada:** Convierte las vocales en secuencias únicas según una regla específica:
 
-- "e" se transforma en "enter"
-- "i" se transforma en "imes"
-- "a" se transforma en "ai"
-- "o" se transforma en "ober"
-- "u" se transforma en "ufat"
+> "e" se transforma en "enter"
+> "i" se transforma en "imes"
+> "a" se transforma en "ai"
+>  "o" se transforma en "ober"
+>  "u" se transforma en "ufat"
 
 * **Desencriptación:** Reversión del texto encriptado a su forma original.
 * **Funcionalidad de copia:** Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
