@@ -6,7 +6,7 @@ Este encriptador de texto fue diseñado como parte de un proyecto educativo en A
 
 ## **Características**
 
-Encriptación personalizada: Convierte las vocales en secuencias únicas según una regla específica:
+* **Encriptación personalizada:** Convierte las vocales en secuencias únicas según una regla específica:
 
 * "e" se transforma en "enter"
 * "i" se transforma en "imes"
@@ -14,8 +14,8 @@ Encriptación personalizada: Convierte las vocales en secuencias únicas según 
 * "o" se transforma en "ober"
 * "u" se transforma en "ufat"
 
-**Desencriptación:** Reversión del texto encriptado a su forma original.
-**Funcionalidad de copia:** Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
+* **Desencriptación:** Reversión del texto encriptado a su forma original.
+* **Funcionalidad de copia:** Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
 
 ## **Tecnologías utilizadas**
 
@@ -25,10 +25,10 @@ Encriptación personalizada: Convierte las vocales en secuencias únicas según 
 
 ## **Instrucciones de uso**
 
-Introduce el texto que deseas encriptar en el área designada.
-Haz clic en el botón *Encriptar* para transformar el texto según las reglas establecidas.
-Para revertir el proceso, introduce el texto encriptado y haz clic en *Desencriptar*.
-Utiliza el botón *Copiar* para copiar el texto encriptado o desencriptado al portapapeles.
+* Introduce el texto que deseas encriptar en el área designada.
+* Haz clic en el botón *Encriptar* para transformar el texto según las reglas establecidas.
+* Para revertir el proceso, introduce el texto encriptado y haz clic en *Desencriptar*.
+* Utiliza el botón *Copiar* para copiar el texto encriptado o desencriptado al portapapeles.
 
 *Nota: No se requiere instalación. En caso de querer copiar el repositorio, a continuación estará el **bash***:
 
