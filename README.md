@@ -1,1 +1,2 @@
 # Alura-Challenge
+Este es un intento de encriptador de textos logrado después de haber pasado un infierno haciéndolo. Es una mezcla de tutoriales de Youtube, ChatGPT, opiniones de mis amigos, los profesores de Alura y libros de JS... espero que lo disfruten.
